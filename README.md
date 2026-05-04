@@ -9,11 +9,11 @@
 - dictionary control
 
 ## Python lambda functions
--using google collab
--using lambda functions to process csv data
+- using google collab
+- using lambda functions to process csv data
 
 ## using seaborn package
--process and present data
+- process and present data
 
 
 
